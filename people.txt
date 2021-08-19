@@ -1,0 +1,8 @@
+7
+abcd 1 10
+blmy 2 98
+amnp 3 73
+uyjk 4 46
+asdf 5 90
+utdr 6 16
+rtyu 7 17
